@@ -1,0 +1,1 @@
+# AI-for-market-trend-analysis
